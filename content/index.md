@@ -7,10 +7,10 @@ title: The World Of Requiem
 This page links all the known lore and worldbuilding for the world of Requiem, including the geographical details and  
 
 CONTINENTS:
-- [[Vrumdale]]
-- [[Rouvryia]]
-- [[Sadjieof]]
-- [[Talxua]]
+- [[content/worldbuilding/continents/Vrumdale|Vrumdale]]
+- [[content/worldbuilding/continents/Rouvryia|Rouvryia]]
+- [[content/worldbuilding/continents/Sadjieof|Sadjieof]]
+- [[content/worldbuilding/continents/Talxua|Talxua]]
 - [[Iulia]]
 
 SUPERNATURAL WORKINGS:
