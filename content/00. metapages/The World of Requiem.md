@@ -3,8 +3,8 @@ tags:
   - worldbuilding
   - masterpage
   - meta
-  - title
 type: lore
+title: ContentIndex
 ---
 This page links all the known lore and worldbuilding for the world of Requiem, including the geographical details and  
 
