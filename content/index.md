@@ -25,3 +25,7 @@ ABOUT: The World
 - [[The Moons]]
 - [[calendar|The Calendar]]
 - [[The Peoples]]
+
+
+Other meta pages worth checking out:
+#### [[books]]
