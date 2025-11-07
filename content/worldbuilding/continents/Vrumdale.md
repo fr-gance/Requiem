@@ -1,3 +1,9 @@
+---
+tags:
+  - continents
+  - worldbuilding
+draft:
+---
 countries:
 - [[Ancan]]
 - [[Betoviumia]]

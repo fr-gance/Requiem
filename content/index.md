@@ -10,9 +10,9 @@ CONTINENTS:
 - [[content/worldbuilding/continents/Vrumdale|Vrumdale]]
 - [[content/worldbuilding/continents/Rouvryia|Rouvryia]]
 - [[content/worldbuilding/continents/Sadjieof|Sadjieof]]
-- [[content/worldbuilding/continents/Talxua|Talxua]]
+- [[content/worldbuilding/countries/Talxua/Talxua|Talxua]]
 - [[Iulia]]
-
+ 
 SUPERNATURAL WORKINGS:
 - [[Balance Theory]]
 - [[Chaos Theory]]
