@@ -4,7 +4,7 @@ tags:
   - masterpage
   - book
 ---
-these are all the books series that take place in [[The World of Requiem]].
+these are all the books series that take place in [[index|The World of Requiem]].
 - [[The Vrumdale Series]] saga
 - [[The Vayja Journal]] trilogy
 - [[Andromeda Series]] trilogy
