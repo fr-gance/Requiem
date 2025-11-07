@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Times New Roman",
+        body: "Times New Roman",
+        code: "Times New Roman",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf8f8", //base
+          lightgray: "#e5e5e5", //node connect
+          gray: "#b8b8b8", //node itself
+          darkgray: "#4e4e4e",//texto in side bar
+          dark: "#2b2b2b", //texto punto
+          secondary: "#284b63", //linked things
+          tertiary: "#84a59d", //selected sidebar item
+          highlight: "rgba(143, 159, 169, 0.15)", //behind tag and link
+          textHighlight: "#fff23688",//no se bro
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2E2939" //
+          lightgray: "#534173", //node connect
+          gray: "#DDCFDD", //node itself
+          darkgray: "#d4d4d4", //texto in side bar
+          dark: "#C9BCD8",//texto punto
+          secondary: "#B4AACA", //linked things
+          tertiary: "#B6AACA", //selected sidebar item
+          highlight: "#23147A66",//behind tag and link 
+          textHighlight: "#632FD466", //no se bro
         },
       },
     },
