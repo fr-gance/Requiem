@@ -1,0 +1,1 @@
+leader of the [[Eastern Union]], composed by [[Korod]], [[Biarosia]], [[Pickingia]], and [[Rockingia]]
