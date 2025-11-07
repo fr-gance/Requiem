@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",//no se bro
         },
         darkMode: {
-          light: "#2E2939" //
+          light: "#2E2939",
           lightgray: "#534173", //node connect
           gray: "#DDCFDD", //node itself
           darkgray: "#d4d4d4", //texto in side bar
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }
