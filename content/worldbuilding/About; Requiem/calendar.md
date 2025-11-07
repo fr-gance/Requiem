@@ -1,4 +1,11 @@
-the calendar of the [[The World of Requiem]] is divided in 9 months, 5 days per week, 8 weeks per month. 
+---
+tags:
+  - worldbuilding
+  - lore
+type: lore
+---
+
+the calendar is divided in 9 months, 5 days per week, 8 weeks per month. 
 	week (5 days) 
 	diacom (10 days) 
 

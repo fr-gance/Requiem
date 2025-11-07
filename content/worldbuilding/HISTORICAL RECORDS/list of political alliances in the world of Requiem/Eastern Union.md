@@ -1,0 +1,1 @@
+The Eastern Union is a [[list of political alliances in the world of Requiem|political alliance]] composed and lead by the [[Vorod|Empire of Vorod]], its allied countries and vassals are [[Korod]], [[Rockingia]], [[Pickingia]], and [[Biarosia]].
