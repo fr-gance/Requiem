@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"85f2321d9fb6cbd7","type":"file","file":"worldbuilding/HISTORICAL RECORDS/The War of Ages.md","x":-200,"y":-280,"width":360,"height":520},
+		{"id":"85f2321d9fb6cbd7","type":"file","file":"worldbuilding/Historical records/The War of Ages.md","x":-200,"y":-280,"width":360,"height":520},
 		{"id":"35c354f46fb8c07f","type":"file","file":"worldbuilding/About; Requiem/The Moons.md","x":-1060,"y":220,"width":400,"height":400},
 		{"id":"5b794d5a78ff45c5","type":"file","file":"worldbuilding/About; Requiem/calendar.md","x":-1060,"y":-220,"width":380,"height":400}
 	],

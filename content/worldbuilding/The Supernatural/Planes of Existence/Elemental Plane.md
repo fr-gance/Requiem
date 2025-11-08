@@ -2,7 +2,7 @@
 tags:
   - lore
   - worldbuilding
-  - supernatural
+  - planes
 type: lore
 ---
 

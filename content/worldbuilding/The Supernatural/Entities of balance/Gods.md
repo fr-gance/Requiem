@@ -16,6 +16,7 @@ are reigning down
             - tierra
             - agua
             - aire
+            - God of Disaster (DECEASED)
 3. Deidades Infernales
     - ALINEAMIENTO: Neutral Neutral
     - DIOS MAYOR: el Destino / dios del tiempo (DECEASED)
@@ -39,11 +40,6 @@ are reigning down
         - dioses secundarios:
             - Dios de la forja
             - dios de los escritos 
+            - Dios de la guerra (DECEASED)
             - Dios de la Justicia (DECEASED)
             - Escriba del Pasado — humano mantenido en el tiempo, ascendido a la divinidad por el Destino y el Dios del Purgatorio trabajando juntos. odia a los dioses y los dioses lo odian. no puede firmar pactos.
-6. Dioses no corporeos
-    creadores de todo el universo conocido, center of the [[Chaos Theory]].  no se puede realizar pactos.
-	- [[Masters of Chaos]]
-		- Divine Chaos
-		- Divine Light 
-		- Energy ([[''Lightning'']])

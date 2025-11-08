@@ -2,24 +2,25 @@
 tags:
   - meta
   - masterpage
-title: The World Of Requiem
+  - homepage
+title: The World of Requiem
 ---
 This page links all the known lore and worldbuilding for the world of Requiem, including the geographical details and  
 
 CONTINENTS:
-- [[worldbuilding/continents/Vrumdale|Vrumdale]]
-- [[worldbuilding/continents/Rouvryia|Rouvryia]]
-- [[worldbuilding/continents/Sadjieof|Sadjieof]]
-- [[worldbuilding/countries/Talxua/Talxua|Talxua]]
+- [[Vrumdale]]
+- [[Rouvryia]]
+- [[Sadjieof]]
+- [[Talxua|Talxua]]
 - [[Iulia]]
  
 SUPERNATURAL WORKINGS:
+- [[Planes of Existence]]
 - [[Balance Theory]]
 - [[Chaos Theory]]
 
-Historical records:
-- [[The War of Ages]]
-- [[Fall of Skyhaven]]
+[[Historical records]]:
+
 
 ABOUT: The World
 - [[The Moons]]

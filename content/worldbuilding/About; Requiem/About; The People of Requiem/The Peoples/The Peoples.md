@@ -4,7 +4,6 @@ tags:
   - lore
 type: lore
 ---
-
 - Mages
 - Sorcerers
 - Humans

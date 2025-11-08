@@ -2,7 +2,6 @@
 tags:
   - lore
   - worldbuilding
-  - supernatural
 type: lore
 ---
 

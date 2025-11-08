@@ -1,0 +1,1 @@
+allied with [[Globury]]
