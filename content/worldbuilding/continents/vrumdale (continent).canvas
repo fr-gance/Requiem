@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"2a6338bd0c6ffe14","type":"text","text":"countries from here ","x":-1040,"y":-740,"width":250,"height":60},
-		{"id":"ffd6016e2ca5671b","type":"file","file":"worldbuilding/countries/Vrumdale/Mezonyodia.md","x":-660,"y":-640,"width":400,"height":400},
-		{"id":"2e39c11775a6f927","type":"file","file":"worldbuilding/countries/Vrumdale/Ancan.md","x":-1115,"y":-640,"width":400,"height":400}
-	],
-	"edges":[]
-}

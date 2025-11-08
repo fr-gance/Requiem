@@ -1,1 +1,0 @@
-an Archipelago, ruled by the [[Gods]], who were tasked by the [[Masters of Chaos]] with keeping the balance of the islands. 

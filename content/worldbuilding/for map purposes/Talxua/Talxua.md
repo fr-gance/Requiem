@@ -3,7 +3,7 @@ tags:
   - continents
   - worldbuilding
   - Talxua
-type:
+draft:
 ---
 
 Talxua is a continent composed of two islands, which was parted by the Wrath of the Dragons as they gave end to [[Balance Theory|balance]] after the [[The Fall of Skyhaven]]. 

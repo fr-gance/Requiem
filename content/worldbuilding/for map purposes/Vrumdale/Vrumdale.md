@@ -2,6 +2,7 @@
 tags:
   - continents
   - worldbuilding
+draft:
 ---
 
 countries:
